@@ -4,7 +4,6 @@
 
 ## Overview
 <img src="https://raw.github.com/YingqianWang/LF-DFnet/master/Figs/Network.jpg" width="800"><br>
-#### Fig. 1: An overview of our LF-DFnet.
 
 
 ## Requirement
@@ -24,12 +23,17 @@
 <img src="https://raw.github.com/YingqianWang/LF-DFnet/master/Figs/2xSR.jpg" width="1000"><br>
 <img src="https://raw.github.com/YingqianWang/LF-DFnet/master/Figs/4xSR.jpg" width="1000"><br>
 
-
 ## Efficiency
-<img src="https://raw.github.com/YingqianWang/LF-DFnet/master/Figs/Efficiency.jpg" width="1000"><br>
+<img src="https://raw.github.com/YingqianWang/LF-DFnet/master/Figs/Efficiency.jpg" width="500"><br>
 
 ## Performance w.r.t. Perspectives
 <img src="https://raw.github.com/YingqianWang/LF-DFnet/master/Figs/PwrtP.jpg" width="1000"><br>
+
+## Performance w.r.t. Disparity Variations
+<img src="https://raw.github.com/YingqianWang/LF-DFnet/master/Figs/PwrtB.jpg" width="600"><br>
+
+## Benefits to Depth Estimation
+<img src="https://raw.github.com/YingqianWang/LF-DFnet/master/Figs/Depth.jpg" width="1000"><br>
 
 ## Performance on Real-World Images
 <img src="https://raw.github.com/YingqianWang/LF-DFnet/master/Figs/realSR.jpg" width="600"><br>
