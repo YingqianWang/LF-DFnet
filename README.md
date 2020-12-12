@@ -3,7 +3,7 @@
 
 
 ## Overview
-<img src="https://raw.github.com/YingqianWang/LF-DFnet/master/Figs/Network.jpg" width="800"><br>
+<img src="https://raw.github.com/YingqianWang/LF-DFnet/master/Figs/Network.jpg" width="1000"><br>
 
 
 ## Requirement
