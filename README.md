@@ -13,7 +13,7 @@
 ## Citiation
 **If you find this work helpful, please consider citing the following paper:**
 ```
-@artical{LF-DFnet,
+@article{LF-DFnet,
   author  = {Wang, Yingqian and Yang, Jungang and Wang, Longguang and Ying, Xinyi and Wu, Tianhao and An, Wei and Guo, Yulan},
   title   = {Spatial-Angular Interaction for Light Field Image Super-Resolution},
   journal = {IEEE Transactions on Image Processing},
