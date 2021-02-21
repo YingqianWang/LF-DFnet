@@ -5,7 +5,7 @@
 * **Matlab (For training/test data generation and performance evaluation)**
 
 ## Datasets
-**We used the EPFL, HCInew, HCIold, INRIA and STFgantry datasets for both training and test. Please first download our dataset via [Baidu Drive](https://pan.baidu.com/s/144kg-c94EIJrzSkd-wxK9A) (key:nudt), and place the 5 datasets to the folder `./Datasets`.**
+* **We used the EPFL, HCInew, HCIold, INRIA and STFgantry datasets for both training and test. Please first download our dataset via [Baidu Drive](https://pan.baidu.com/s/144kg-c94EIJrzSkd-wxK9A) (key:nudt), and place the 5 datasets to the folder `./Datasets`.**
 
 ## Train
 * **Run `GenerateTrainingData.m` to generate training data. The generated training data will be saved under `./Data`**
