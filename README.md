@@ -4,10 +4,14 @@
 * **PyTorch 1.3.0, torchvision 0.4.1. The code is tested with python=3.7, cuda=9.0.**
 * **Matlab (For training/test data generation and performance evaluation)**
 
-## Train
-**Training codes are under final preparation and will be released in the coming future.**
+## Datasets
+**We used the EPFL, HCInew, HCIold, INRIA and STFgantry datasets for both training and test. Please first download our dataset via [Baidu Drive](https://pan.baidu.com/s/144kg-c94EIJrzSkd-wxK9A) (key:nudt), and place the 5 datasets to the folder `./Datasets`.**
 
-## Test
+## Train
+* **Run `GenerateTrainingData.m` to generate training data. The generated training data will be saved under `./Data`**
+* **Run `train.py` to perform network training. Note that, the training settings in `train.py` should match the generated training data. Checkpoint models will be saved to `./log`.
+
+## Test on our datasets
 **Codes and models are under final preparation and will be released in the coming future.**
 
 ## Citiation
