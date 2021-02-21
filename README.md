@@ -9,7 +9,7 @@
 
 ## Train
 * **Run `GenerateTrainingData.m` to generate training data. The generated training data will be saved under `./Data`**
-* **Run `train.py` to perform network training. Note that, the training settings in `train.py` should match the generated training data. Checkpoint models will be saved to `./log`.
+* **Run `train.py` to perform network training. Note that, the training settings in `train.py` should match the generated training data. Checkpoint models will be saved to `./log`.**
 
 ## Test on our datasets
 **Codes and models are under final preparation and will be released in the coming future.**
