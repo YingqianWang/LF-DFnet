@@ -8,11 +8,15 @@
 * **We used the EPFL, HCInew, HCIold, INRIA and STFgantry datasets for both training and test. Please first download our dataset via [Baidu Drive](https://pan.baidu.com/s/144kg-c94EIJrzSkd-wxK9A) (key:nudt), and place the 5 datasets to the folder `./Datasets`.**
 
 ## Train
-* **Run `GenerateTrainingData.m` to generate training data. The generated training data will be saved under `./Data`**
+* **Run `GenerateTrainingData.m` to generate training data. The generated training data will be saved in `./Data`**
 * **Run `train.py` to perform network training. Note that, the training settings in `train.py` should match the generated training data. Checkpoint models will be saved to `./log`.**
 
 ## Test on our datasets
-**Codes and models are under final preparation and will be released in the coming future.**
+* **Run `GenerateTestData.m` to generate input LFs of the test set. The generated data will be saved in `./Data`**
+* **Run `test.py` to perform network inference. The PSNR and SSIM values of each dataset will be printed out**
+
+## Test on your own LFs
+**Will be released soon.**
 
 ## Citiation
 **If you find this work helpful, please consider citing the following paper:**
