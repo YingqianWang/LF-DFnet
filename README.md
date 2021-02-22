@@ -7,6 +7,13 @@
 ## Datasets
 * **We used the EPFL, HCInew, HCIold, INRIA and STFgantry datasets for both training and test. Please first download our dataset via [Baidu Drive](https://pan.baidu.com/s/144kg-c94EIJrzSkd-wxK9A) (key:nudt), and place the 5 datasets to the folder `./Datasets/`.**
 
+## Compile DCN
+
+* **Cd to `code/dcn`.**
+* **For Windows users, run `cmd make.bat`. For Linux users, run bash `bash make.sh`. The scripts will build DCN automatically and create some folders.
+    See `test.py` for example usage.**
+
+
 ## Train
 * **Run `GenerateTrainingData.m` to generate training data. The generated data will be saved in `./Data/TrainData_UxSR_AxA/` (U=2,4; A=3,5,7,9).**
 * **Run `train.py` to perform network training. Note that, the training settings in `train.py` should match the generated training data. Checkpoint will be saved to `./log/`.**
