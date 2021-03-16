@@ -10,7 +10,7 @@ addpath(genpath('./Functions/'))
 angRes = 5;
 patchsize = 64;
 stride = 32;
-factor = 4;
+factor = 2;
 downRatio = 1/factor;
 sourceDataPath = '../Datasets/';
 sourceDatasets = dir(sourceDataPath);
