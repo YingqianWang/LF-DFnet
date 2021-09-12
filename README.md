@@ -37,7 +37,7 @@
 ```
 @article{LF-DFnet,
   author  = {Wang, Yingqian and Yang, Jungang and Wang, Longguang and Ying, Xinyi and Wu, Tianhao and An, Wei and Guo, Yulan},
-  title   = {Spatial-Angular Interaction for Light Field Image Super-Resolution},
+  title   = {Light Field Image Super-Resolution Using Deformable Convolution},
   journal = {IEEE Transactions on Image Processing},
   volume  = {30),
   pages   = {1057-1071},
