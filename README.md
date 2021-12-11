@@ -50,7 +50,7 @@
 <p align="center"> <img src="https://raw.github.com/YingqianWang/LF-DFnet/master/Figs/Depth.jpg" width="100%"> </p>
 
 ### Performance on Real LFs:
-<p align="center"> <img src="https://raw.github.com/YingqianWang/LF-DFnet/master/Figs/realSR.jpg" width="70%"> </p>
+<p align="center"> <img src="https://raw.github.com/YingqianWang/LF-DFnet/master/Figs/realSR.jpg" width="50%"> </p>
 
 
 ## Citiation:
