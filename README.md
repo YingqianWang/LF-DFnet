@@ -5,7 +5,7 @@
 <br>
 
 ## Network Architecture:
-<p align="center"> <img src="https://raw.github.com/YingqianWang/LF-InterNet/master/Figs/Network.jpg" width="95%"> </p><br>
+<p align="center"> <img src="https://raw.github.com/YingqianWang/LF-DFnet/master/Figs/Network.jpg" width="95%"> </p><br>
 
 ## Codes and Models:
 
@@ -39,26 +39,26 @@
 
 ## Results in Our Paper:
 ### Quantitative Results:
-<p align="center"> <img src="https://raw.github.com/YingqianWang/LF-InterNet/master/Figs/Quantitative.jpg" width="70%"> </p>
+<p align="center"> <img src="https://raw.github.com/YingqianWang/LF-DFnet/master/Figs/Quantitative.jpg" width="100%"> </p>
 
 ### Visual Comparisons:
-<p align="center"> <img src="https://raw.github.com/YingqianWang/LF-InterNet/master/Figs/2xSR.jpg" width="100%"> </p>
-<p align="center"> <img src="https://raw.github.com/YingqianWang/LF-InterNet/master/Figs/4xSR.jpg" width="100%"> </p>
+<p align="center"> <img src="https://raw.github.com/YingqianWang/LF-DFnet/master/Figs/2xSR.jpg" width="100%"> </p>
+<p align="center"> <img src="https://raw.github.com/YingqianWang/LF-DFnet/master/Figs/4xSR.jpg" width="100%"> </p>
 
 ### Efficiency:
-<p align="center"> <img src="https://raw.github.com/YingqianWang/LF-InterNet/master/Figs/Efficiency.jpg" width="80%"> </p>
+<p align="center"> <img src="https://raw.github.com/YingqianWang/LF-DFnet/master/Figs/Efficiency.jpg" width="50%"> </p>
 
 ### Performance w.r.t. Perspectives:
-<p align="center"> <img src="https://raw.github.com/YingqianWang/LF-InterNet/master/Figs/PwrtP.jpg" width="100%"> </p>
+<p align="center"> <img src="https://raw.github.com/YingqianWang/LF-DFnet/master/Figs/PwrtP.jpg" width="100%"> </p>
 
 ### Performance w.r.t. Baseline Lengths:
-<p align="center"> <img src="https://raw.github.com/YingqianWang/LF-InterNet/master/Figs/PwrtB.jpg" width="100%"> </p>
+<p align="center"> <img src="https://raw.github.com/YingqianWang/LF-DFnet/master/Figs/PwrtB.jpg" width="60%"> </p>
 
 ### Benefits to Depth Estimation (i.e., Angular Consistency):
-<p align="center"> <img src="https://raw.github.com/YingqianWang/LF-InterNet/master/Figs/Depth.jpg" width="100%"> </p>
+<p align="center"> <img src="https://raw.github.com/YingqianWang/LF-DFnet/master/Figs/Depth.jpg" width="100%"> </p>
 
 ### Performance on Real LFs:
-<p align="center"> <img src="https://raw.github.com/YingqianWang/LF-InterNet/master/Figs/reslSR.jpg" width="100%"> </p>
+<p align="center"> <img src="https://raw.github.com/YingqianWang/LF-DFnet/master/Figs/reslSR.jpg" width="100%"> </p>
 
 
 ## Citiation
