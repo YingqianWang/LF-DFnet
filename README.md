@@ -1,4 +1,4 @@
-## PyTorch implementation of "Light Field Image Super-Resolution Using Deformable Convolution", <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9286855">TIP 2021</a><br>
+## LF-DFnet: Light Field Image Super-Resolution Using Deformable Convolution, <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9286855">TIP 2021</a><br>
 
 <p align="center"> <img src="https://raw.github.com/YingqianWang/LF-DFnet/master/Figs/Network.jpg" width="95%"> </p><br>
 
